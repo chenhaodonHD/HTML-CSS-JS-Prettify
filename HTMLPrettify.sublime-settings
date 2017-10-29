@@ -36,9 +36,10 @@
     {
         // Be sure to include the `html` key in your user settings to be able
         // to prettify html files.
+        // add mhtml for CoolCTO
         "html":
         {
-            "allowed_file_extensions": ["htm", "html", "xhtml", "shtml", "xml", "svg"],
+            "allowed_file_extensions": ["htm", "html", "mhtml", "xhtml", "shtml", "xml", "svg"],
             "allowed_file_syntaxes": ["html", "xml"],
             "disallowed_file_patterns": []
         },
