@@ -1,3 +1,5 @@
+# 本插件修改主要在原有基础上对mewchan体系中的mhtml格式化进行支持
+
 # HTML, CSS, JavaScript and JSON code formatter for Sublime Text 2 and 3 via node.js
 #### [Sublime Text 3](http://www.sublimetext.com/3)
 #### [JS-beautify](https://github.com/einars/js-beautify)
